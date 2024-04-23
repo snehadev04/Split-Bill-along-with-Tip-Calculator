@@ -36,7 +36,5 @@ The Tip Calculator is a Python script that makes it easy to calculate the total 
 
 Contributions are welcome! If you have any suggestions or improvements to the program, feel free to open an issue or create a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
